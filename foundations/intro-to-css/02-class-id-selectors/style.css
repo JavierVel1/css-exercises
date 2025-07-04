@@ -1,4 +1,13 @@
 .odd-number {
-    background-color: pink;
+    background-color: rgb(216, 74, 131);
     font-family: Verdana, DejaVu Sans, sans-serif; 
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-number.num3 {
+    font-size: 24px;
 }
